@@ -9,7 +9,3 @@ For Example - Solution of Basics of Input/Output for C++ is in C++/Basics Of Pro
 Detailed instructions will be provided within the solutions README.
 
 Feel Free to add your solution or post the solution in your favorite programming languages.
-
-Follow Me On : 
-
-[Instagram](https://www.instagram.com/programming_days/)
